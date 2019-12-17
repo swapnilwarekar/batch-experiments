@@ -21,7 +21,7 @@
 		<logback.version>1.2.3</logback.version>
 		<assertj.version>3.12.1</assertj.version>
 		<hsqldb.version>2.3.3</hsqldb.version>
-		<spring.data>1.10.5.RELEASE</spring.data>
+		<spring.data>1.11.23.RELEASE</spring.data>
 		<hibernate.manager>5.3.1.Final</hibernate.manager>
 	</properties>
 
