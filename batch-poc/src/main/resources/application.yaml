@@ -1,0 +1,12 @@
+# Put main configuration in this file
+# See http://seedstack.org/docs/seed/configuration for more information
+
+application:
+  # Unique identifier of the application accross your organization
+  id: batch-poc
+  # Make sure all your application base packages are listed below
+  basePackages: [ com.example.testbatch ]
+  spring:
+    manageJpa: true
+  
+
