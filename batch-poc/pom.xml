@@ -17,7 +17,7 @@
 
 		<hibernate-validator.version>6.0.16.Final</hibernate-validator.version>
 		<spring.version>4.3.22.RELEASE</spring.version>
-		<spring-batch.version>3.0.10.RELEASE</spring-batch.version>
+		<spring-batch.version>4.2.1.RELEASE</spring-batch.version>
 		<logback.version>1.2.3</logback.version>
 		<assertj.version>3.12.1</assertj.version>
 		<hsqldb.version>2.3.3</hsqldb.version>
